@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<configuration>
+    <property>
+        <name>port</name>
+        <value>8080</value>
+        <description>cweb server listen server</description>    
+    </property>
+    <property>
+        <name>htdocs_path</name>
+        <value>./htdocs</value>
+        <description>cweb server doc/cgi path</description>    
+    </property>
+    <property>
+        <name>default_index</name>
+        <value>index.hmtl</value>
+        <description>default index file name in htdocs_path</description>    
+    </property>
+</configuration>
