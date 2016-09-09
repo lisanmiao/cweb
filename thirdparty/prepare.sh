@@ -1,8 +1,7 @@
 #! /bin/sh
 #
 # prepare.sh
-# Copyright (C) 2016 lisanmiao <lisanmiao@cp01-rdqa-dev367.cp01.baidu.com>
-#
+# Copyright (C) 2016 lisanmiao
 # Distributed under terms of the MIT license.
 #
 
