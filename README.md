@@ -1,2 +1,2 @@
 # cweb
-c++ http server based on tinnyhttp
+C++ http server which is based on tinnyhttp
